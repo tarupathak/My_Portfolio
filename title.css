@@ -1,0 +1,23 @@
+.heading{
+    font-family: 'Fredoka One', cursive;
+    font-weight: bolder;
+    font-size:xx-large;
+    text-decoration: darkgreen;
+    text-decoration:underline;
+    text-shadow: 2px 2px 5px green;
+    
+    
+    
+}
+h2{
+    text-align: center;
+    text-shadow: 2px 2px 5px green;
+}
+h1{
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-weight: bold;
+    text-decoration: underline;
+    color:darkgreen;
+    text-shadow: 2px 2px 5px green;
+   }

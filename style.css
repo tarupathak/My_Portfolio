@@ -1,0 +1,245 @@
+/*h1{
+    color:black;
+    text-align: center;
+}
+body{
+    background-image:url("https://media.istockphoto.com/vectors/modern-rainbow-glow-backlight-frame-vector-id1337668467?k=20&m=1337668467&s=612x612&w=0&h=3upfrFsBaAarzI2muUMzBVPFxgNBgV-tShJKj22D17g");
+    background-size: 100%;
+   
+    width: 300px;background-attachment: scroll;
+    height: 300px;
+    border: 2px solid;
+}
+/*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    width: 100%;
+    height: 100;
+    padding: 0 10%;
+    background: #f7f7f7;
+}
+h1{
+    text-align: center;
+}
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: montserrat;
+}
+nav{
+    background: #008900';
+}
+label.logo
+{
+    color:black;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight:bold;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+
+}
+nav ul li{
+    display:inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+nav ul li a{
+    color: black;
+    font-size: 17px;
+    text-transform: uppercase;
+}*/
+body{
+    background-image: url("flat-design-abstract-aesthetic-background-web-banner-card-template_633581-5.webp");
+    background-size: 100%;
+   
+    background-attachment:fixed;
+}
+.skills{
+    list-style-type: none;
+    
+}
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
+
+ .nav_bar{
+    display:inline;
+    position: relative;
+    
+    overflow:hidden;
+    flex-direction:row;
+    
+ }
+ .navv{
+    display:flex;
+    flex-direction: row;
+    list-style-type:none;
+    margin: 3%;
+    padding: 0;
+    overflow: hidden;
+    position:relative;
+   
+    top: 0;
+    width: 100%;
+   
+ }
+/*.nav_{
+    display:inline-block;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: inline;
+    
+    text-align:center;
+}*/
+li.nav_{
+    float: left;
+}
+/*button{
+    background-color:rgb(136, 198, 136);
+    border-radius: 3in;
+
+}*/
+li.nav_ a{
+    display: block;
+    color:green;
+    text-align: center;
+    padding: 5px 5px;
+    text-decoration: none;
+    border-radius: 10;
+}
+.flex-container{
+    display:flex;
+
+
+}
+.edu{
+    text-align:center;
+    list-style-type:none;
+    font-family:cursive;
+    text-shadow: 2px 2px 5px green;
+    }
+.exp
+{
+    text-align:center;
+    list-style-type:none;
+    font-family:cursive;
+    text-shadow: 2px 2px 5px green;
+}
+.pro{
+    text-align:center;
+    list-style-type:none;
+    font-family:cursive;
+    text-shadow: 2px 2px 5px green;
+}
+.ab{
+    text-align:center;
+    list-style-type:none;
+    font-family:cursive;
+    text-shadow: 2px 2px 5px green;
+
+    
+}
+.flex-container{
+    display:flex;
+    justify-content: center;
+   
+    
+}
+div.flex-container a{
+    display:inline-block;
+    justify-content: center;
+    justify-content:space-around ;
+    margin: 20px;
+}
+.flex{
+    display:flex;
+    justify-content: center;
+}
+div.flex img{
+    display:inline-block;
+    justify-content: center;
+    justify-content:space-around ;
+    margin: 20px;
+}
+.flex-box{
+    display:flex;
+
+    justify-content: center;
+    margin-top: 25px;
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-bottom: 25px;
+    border-radius: 50pxs;
+
+}
+.abc{
+    display:flex;
+    margin-left: 50px;
+    margin-right: 550px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    justify-content: right;
+}
+@media all and (max-width: 552px){
+    body{
+        height:auto;
+        width:100%;
+    }
+    .flex-box{
+        display:flex;
+        flex-wrap: wrap;
+    
+    justify-content: center;
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    border-radius: auto;
+    }
+    div.flex-box img{
+        display:flex;
+        
+
+    justify-content: :center;
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    border-radius: auto;
+   
+    }
+    nav.nav_bar{
+        text-align:left;
+        flex-direction:column; 
+    }
+    ul.navv{
+        flex-direction:column;
+    }
+    /*li.nav_{
+        margin:0em;
+    }*/
+    .ed{
+        display:flex;
+        justify-content: center;
+    }
+    
+    
+    
+}
+
